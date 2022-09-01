@@ -1,0 +1,21 @@
+body{
+	background: #F8E8A6;
+	text-align: center;
+}
+
+a{
+	color:green;
+	margin: 0 10px;
+}
+
+img{
+	max-width: 100%;
+	border-radius: 10px;
+	display:block;
+	margin: 30px auto;
+}
+
+.link {
+	color:blue;
+	margin: 0;
+}
